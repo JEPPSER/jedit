@@ -1,3 +1,3 @@
 mkdir -p build
 make
-./build/kilo "src/kilo.c"
+./build/kilo "testtttt.txt"
